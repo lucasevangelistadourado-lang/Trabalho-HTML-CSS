@@ -233,12 +233,17 @@ footer{
     box-sizing: border-box;
     display: flex;
 }
+footer h2{
+    color: white;
+    text-decoration: none;
+}
 
 .footer1{
    display: flex;
    margin: 50px;
    gap : 300px;
 }
+
 
 
 /*informações de contato*/
