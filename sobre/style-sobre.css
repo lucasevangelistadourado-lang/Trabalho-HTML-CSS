@@ -1,0 +1,269 @@
+/*um seletor para selecionar todos os elementos.*/
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+
+html, body {
+    width: 100%;
+    overflow-x: hidden; /* para tirar o scroll horixontal, pesquisado*/
+}
+
+
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    background-color: rgb(8, 8, 85);
+    
+}
+
+    
+header{
+    position: relative;
+    color: white;
+    background-color: rgb(6, 6, 53);
+    padding: 0 0 0 0;
+    width: 100%;
+    box-sizing: border-box;
+    
+    
+}
+
+
+
+.empresa {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(6, 6, 53);
+    padding: 15px 30px;
+    align-items: center;
+    
+}
+.empresa a{        /*deixando o texto sem decoração*/
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+.empresa h1{
+    font-size: 50px;
+    margin-left: 0;
+    
+}
+/* Cabeçalho com logo e slogan */
+.topo {
+    background-color: rgb(6, 6, 53);
+
+    text-align: center;
+}
+
+.logo {
+    display:    flex;
+    text-align: left;
+    
+}
+
+.home{
+    width: 150px;
+    margin-left: 15px;
+}
+
+
+/*Seçao barra de pesquisa*/
+
+.busca{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.busca input{ /*personalização da barra de pesquisa*/
+    width: 600px;
+    height: 50px;
+    border-radius: 10px;
+    border: none;
+    padding: 5px;
+    font-size: 30px;
+    font-family: 'poppins', sans-serif;
+}   
+
+
+.busca img{
+    position: absolute;
+    width: 30px;
+    right: 530px;
+}
+
+
+/*Seçao do cliente (carrinho + conta)*/
+
+.cliente{  
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
+
+
+/*seçao do carrinho*/
+
+.carrinho{
+    box-sizing: border-box;
+    width: 200px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    gap: 25px;
+    background-color: rgb(180, 180, 180);
+    border-radius: 5px;   
+    font-style: none;
+}
+
+.carrinho img{
+    width: 40px;
+    margin-left: 5px;
+}
+
+.carrinho:hover{    /*efeito para quando passar o mouse em cima ele troca de cor*/
+    background-color: rgb(129, 129, 129);
+}
+
+
+/*seção da conta*/
+
+.conta{
+    box-sizing: border-box;
+    width: 200px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    
+}
+
+.conta img{
+    width: 40px;
+    margin-left: 5px;
+}
+
+
+
+
+/* Menu de navegação */
+
+.menu {
+    background-color: rgb(133, 133, 133);
+    font-size: 15px;
+}
+
+.menu ul {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.menu li {
+    display: inline-block;
+    border-right: 1px solid white;
+}
+.li1{
+    border-left: 1px solid white;}
+
+
+.menu a {
+    color: white;
+    text-decoration: none; ;
+    padding: 10px 35px;
+    display: block;
+    font-weight: bold;
+}
+
+.menu a:hover {
+    background-color: rgb(6, 6, 53);
+}
+
+
+
+
+/*corpo site*/
+
+.texto-sobre{
+    color: white;
+    background-color: rgb(128, 128, 128);
+    padding: 50px;
+    margin: 50px;
+    border-radius: 5px;
+    font-size: 20px;
+    text-align: justify;
+}
+
+
+.texto-sobre h1, h2, h3{
+    text-align: center;
+    color: rgb(20, 20, 53);
+    text-decoration: underline white ;
+}
+
+
+
+
+
+
+
+
+
+
+
+/*----------------------footer---------------------*/
+
+
+
+
+
+/*Rodapé*/
+footer{
+    position: relative;
+    color: white;
+    background-color: rgb(77, 77, 77);
+    width: 100%;
+    height: 250px;
+    box-sizing: border-box;
+    display: flex;
+}
+
+.footer1{
+   display: flex;
+   margin: 50px;
+   gap : 300px;
+}
+
+
+/*informações de contato*/
+.info{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    font-size: 20px;
+}   
+
+
+
+/*seção sobre nós*/
+.sobre{
+    font-size: 30px;
+}
+
+.sobre a{        /*deixando o texto sem decoração*/
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    
+}
+
+.sobre:hover{
+    text-decoration: underline;
+}
+

@@ -1,0 +1,421 @@
+/*um seletor para selecionar todos os elementos.*/
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+
+html, body {
+    width: 100%;
+    overflow-x: hidden; /* para tirar o scroll horixontal, pesquisado*/
+}
+
+
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    background-color: #334288;
+    
+}
+
+    
+header{
+    position: relative;
+    color: white;
+    background-color: rgb(6, 6, 53);
+    padding: 0 0 0 0;
+    width: 100%;
+    box-sizing: border-box;
+    
+    
+}
+
+
+
+
+.empresa {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(6, 6, 53);
+    padding: 15px 30px;
+    align-items: center;
+    
+}
+.empresa a{        /*deixando o texto sem decoração*/
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+.empresa h1{
+    font-size: 50px;
+    margin-left: 0;
+    
+}
+/* Cabeçalho com logo e slogan */
+.topo {
+    background-color: rgb(6, 6, 53);
+
+    text-align: center;
+}
+
+.logo {
+    display:    flex;
+    text-align: left;
+    
+}
+
+.home{
+    width: 150px;
+    margin-left: 15px;
+}
+
+
+/*Seçao barra de pesquisa*/
+
+.busca{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.busca input{ /*personalização da barra de pesquisa*/
+    width: 600px;
+    height: 50px;
+    border-radius: 10px;
+    border: none;
+    padding: 5px;
+    font-size: 30px;
+    font-family: 'poppins', sans-serif;
+}   
+
+
+.busca img{
+    position: absolute;
+    width: 30px;
+    right: 530px;
+}
+
+
+/*Seçao do cliente (carrinho + conta)*/
+
+.cliente{  
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
+
+
+/*seçao do carrinho*/
+
+.carrinho{
+    box-sizing: border-box;
+    width: 200px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    gap: 25px;
+    background-color: rgb(180, 180, 180);
+    border-radius: 5px;   
+    font-style: none;
+}
+
+.carrinho img{
+    width: 40px;
+    margin-left: 5px;
+}
+
+.carrinho:hover{    /*efeito para quando passar o mouse em cima ele troca de cor*/
+    background-color: rgb(129, 129, 129);
+}
+
+
+/*seção da conta*/
+
+.conta{
+    box-sizing: border-box;
+    width: 200px;
+    height: 45px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    
+}
+
+.conta img{
+    width: 40px;
+    margin-left: 5px;
+}
+
+
+/* Menu de navegação */
+
+.menu {
+    background-color: rgb(133, 133, 133);
+    font-size: 15px;
+}
+
+.menu ul {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.menu li {
+    display: inline-block;
+    border-right: 1px solid white;
+}
+.li1{
+    border-left: 1px solid white;}
+
+
+.menu a {
+    color: white;
+    text-decoration: none; ;
+    padding: 10px 35px;
+    display: block;
+    font-weight: bold;
+}
+
+.menu a:hover {
+    background-color: rgb(6, 6, 53);
+}
+
+
+/*banner 1*/
+.banner1 {  
+    width: 100%;
+    max-width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+    margin: 0;
+}
+.banner1 img{
+    max-width: 100%; /*para não ultrapassar o tamanho imposto*/
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+/*corpo site*/
+
+
+.corpo {
+    width: 100%;
+    background-color:rgb(180, 180, 180);
+    display: flex;
+    flex-direction: column;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Bebas Neue', sans-serif;
+    letter-spacing: 2px; /*Para espaçamento das letras*/
+    
+}
+.corpo h1{
+    margin: 30px 0 0 50px;
+    font-size: 30px;
+}
+
+.promo{
+    width: 100%;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+    flex-wrap: wrap;
+    box-sizing: border-box;    
+}
+
+/* Card do produto */
+.produto {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    height: 420px; /* Altura fixa para todos os cards */
+    background-color: white;
+    border-radius: 15px;
+    overflow: hidden;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+.produto:hover {
+    transform: translateY(-10px) scale(1.02);
+    border: 2px solid #334288;
+    background-color: #f8f9ff;
+}
+
+.produto:hover .preco {
+    color: #334288;
+    transform: scale(1.1);
+}
+
+.produto:hover img {
+    transform: scale(1.05);
+}
+
+.produto img {
+    background-color: rgb(220, 220, 220);
+    width: 300px;
+    height: 300px;
+    object-fit: contain;
+    display: block;
+}
+
+/* Informações do produto */
+.info-produto {
+    width: 100%;
+    padding: 15px;
+    background-color: white;
+    text-align: center;
+    margin-top: auto; /* Empurra para o final do card */
+    display: flex;
+    flex-direction: column;
+    height: 120px; /* Altura fixa para área de informações */
+}
+
+.info-produto h3 {
+    font-size: 16px;
+    color: #333;
+    margin-bottom: 8px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    height: 50px; /* Altura fixa para o nome */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    line-height: 1.3; /* Espaçamento entre linhas */
+    overflow: hidden; /* Esconde texto que exceder */
+    text-overflow: ellipsis; /* Adiciona ... se o texto for muito grande */
+}
+
+.info-produto .preco {
+    font-size: 24px;
+    color: #0b0041;
+    font-weight: bold;
+    font-family: 'Bebas Neue', sans-serif;
+    letter-spacing: 1px;
+}
+
+.hard1{
+    width: 100%;
+    padding: 20px;
+    background-color:#0b0041 ;
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+}
+
+.hard1 .produto {
+    background-color: rgb(220, 220, 220);
+    border-radius: 15px;
+    overflow: hidden;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+    height: 420px; /* Altura fixa */
+}
+
+.hard1 .produto img {
+    background-color: rgb(220, 220, 220);
+    width: 300px;
+    height: 300px;
+    object-fit: contain;
+    display: block;
+}
+
+.hard1 .info-produto {
+    background-color: rgb(220, 220, 220);
+}
+
+
+.soft1{
+    width: 100%;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+}
+
+
+
+.soft1 .produto {
+    background-color: white;
+    border-radius: 15px;
+    overflow: hidden;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    height: 420px; /* Altura fixa */
+}
+
+.soft1 .produto img {
+    background-color: rgb(220, 220, 220);
+    width: 300px;
+    height: 300px;
+    object-fit: contain;
+    display: block;
+}
+
+.soft1 .info-produto {
+    background-color: white;
+}
+
+
+
+
+
+/*----------------------footer---------------------*/
+
+
+
+
+
+/*Rodapé*/
+footer{
+    position: relative;
+    color: white;
+    background-color: rgb(77, 77, 77);
+    width: 100%;
+    height: 250px;
+    padding: 0 0 0 0;
+    box-sizing: border-box;
+    display: flex;
+}
+
+.footer1{
+   display: flex;
+   margin: 50px;
+   gap : 300px;
+}
+
+
+/*informações de contato*/
+.info{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    font-size: 20px;
+}   
+
+
+
+/*seção sobre nós*/
+.sobre{
+    font-size: 30px;
+}
+
+.sobre a{        /*deixando o texto sem decoração*/
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    
+}
+
+.sobre:hover{
+    text-decoration: underline;
+}

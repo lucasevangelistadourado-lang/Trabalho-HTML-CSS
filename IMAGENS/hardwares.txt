@@ -1,0 +1,155 @@
+1 intel core i7 14700K, 20- core, 28 threads, 3.4ghz (5.6GHz Turbo), Cache 33MB, LGA1700, BX8071514700K ===> 2399,90
+2 Intel Core i5-12600K, 10-Core, 16-Threads, 3.7GHz (4.9GHz Turbo), Cache 20MB, LGA1700, BX8071512600K-BR ===> 1511,75
+3 Intel Core i3-12100K, 4-Core, 8-Threads, 3.3GHz (4.3GHz Turbo), Cache 12MB, LGA1700, BX8071512100 ===> 811,75
+4 Processador AMD Ryzen 5 3400G, 4-Core, 8-Threads, 3.7GHz (4.2GHz Turbo), Cache 6MB, AM4, YD3400C5FHSBX ===> 588,22
+5 Processador AMD Ryzen 9 9950X, 16-Core, 32-Threads, 4.3GHz (5.7GHz Turbo), Cache 80MB, AM5, 100-100001277WOF ===> 4235,28
+6 Processador Intel Core Ultra 7 265, 20-Core, 20-Threads, 2.40GHz (5.3GHz Turbo), Cache 30MB, LGA1851, BX80768265 ===>R$ 2.941,16
+7 Processador Intel Core i3-12100F, 4-Core, 8-Threads, 3.3GHz ( 4.3GHz Turbo), Cache 12MB, LGA1700, BX8071512100F ===>458,81
+8 Processador Intel Core Ultra 9 285, 24-Core, 24-Threads, 2.5GHz (5.6GHz Turbo), Cache 36MB, LGA1851, BX80768285-BR ===>4.117,64
+
+
+---------------
+
+1 Memoria Corsair Vengeance DDR5, 32GB (2x16GB), 6000MHz, C36, Preto, CMK32GX5M2E6000Z36 ===> 1459,90
+2 Memoria Corsair Vengeance LPX, 8GB (1x8GB), DDR4, 3200MHz, C16, Preto, CMK8GX4M1E3200C16 ===> 547,93
+3 Memoria TGT Galadius 100, 4GB (1x4GB), DDR3, 1600MHz, C11, TGT-GLD100-4GB ===> 134,76
+4 Memoria Corsair Vengeance DDR5, 16GB (2x8GB), 5200MHz, C40, Preta, CMK16GX5M2B5200C40 ===> 941,16
+5 Memoria Hiksemi Armor, 16GB (1x16GB), DDR4, 3200MHz, Branco, HSC416U32E2 ===> 588,22
+
+
+---------------
+
+1 SSD Lexar NM1090, 1TB, M.2 2280, PCIe NVMe, Leitura 12000MB/s, Gravacao 11000MB/s, LNM1090001T-RNANG ===> 1549,90
+2 SSD Kingston A400, 480GB, 2.5, Sata III 6GB/s, Leitura 500MB/s, Gravacao 450MB/s, SA400S37-480G ===> 399,99
+3 SSD Mancer Blink BM100, 128GB, 2.5, Sata III 6GB, Leitura 500MB/s, Gravacao 450MB/s, MCR-BM100-128 ===> 190,99
+5 SSD Adata XPG Mars 980 Blade, 1TB, M.2 2280, PCIe NVMe, Leitura 14000MB/s, Gravacao 10000MB/s, SMAR-980B-1TCS ===> 1151,75
+
+---------------------
+
+1 NVIDIA RTX 3050 ===> 1149,90
+2 Placa de Video MSI GeForce RTX 5080 Gaming Trio OC, 16GB, GDDR7, 256-bit, G5080-16GTC-NAC ===> 10.941,17
+3 Placa de Video Gigabyte GeForce RTX 5060 Windforce, 8GB, GDDR7, 128-bit, GV-N5060WF2-8GD ===> 2529,40
+4 Placa de Video AsRock Radeon RX 9070 XT Challenger, 16GB, GDDR6, 256-bit, 90-GA61ZZ-00UANF ===>  6.117,64
+
+
+
+---------------------
+
+
+1 Monitor Samsung T45F, 23.8 Pol, IPS, FHD, 5ms, 75Hz, FreeSync, DP/HDMI, LF24T450FQLMZD ==> 1009,90
+2 Monitor Aoc 18.5" Led Vga e Hdmi ===> 347,99
+3 Monitor Gamer Samsung Odyssey G40, 27 Pol, IPS, FHD, 1ms, 240Hz, FreeSync/G-Sync, HDMI/DP, LS27BG400ELMZD ===> 1882,34
+4 Monitor Dell 22 Pol 21.5'' LED Preto, SE2216H ===> 601,15
+
+
+
+--------------
+
+1 Teclado e Mouse com fio USB Logitech MK120 com Design Confortável, Durável e Resistente à Respingos, USB e Layout ABNT2 CX 1 UN ===> 149,90
+2 Kit Teclado e Mouse Logitech MK470 Slim Combo, 920-009268 ===> 341,16
+4 Teclado Mecanico Redragon Kumara Elite, Rainbow, Switch Azul, Wireless, Preto, K552-KRS-PT-BLUE ===> 388,22
+5 Teclado Mecanico Razer Huntsman Mini Mercury Chroma Opto-Mechanical Switch Red, RZ0303390400 ===> 847,05
+6 Teclado Mecanico Mancer Shade MK3, Rainbow, Switch Huano Vermelho, Preto, MCR-SHM3-RBW01RD ===> 117,64
+7 Mouse Gamer Havit MS966SE, RGB, 10000PI, 6 Botoes, Wireless, preto, MS966SE-WHT ===> 129,40
+8 Mouse Gamer Redragon Neva Standard, 12000DPI, 6 Botoes, Wireless, Preto, M815-STD ===> 117,64
+9 Mouse PCYes Comfort, 1200DPI, 3 Botoes, Wireless, Preto, PMOC12W ===> 47,05
+
+--------------------
+notebooks
+
+1 Notebook Acer Aspire Go 15, 15.3 Pol, WUXGA, Intel Core i5-1334U, 8GB DDR5, SSD 256GB, Azul Escuro, AG15-51P-54EV ===> 4215,53
+2 Notebook Lenovo IdeaPad 1, 15.6 Pol, Intel I3-1215U, LED, 4GB DDR4, SSD 256, 82VY000TBR ===> 3058,81
+3 Notebook Samsung Galaxy Book4 360, 15.6 Pol, FHD, Intel Core i7-7150U, 16GB DDR5, SSD 1TB, Cinza, NP750QGK-KG1BR ===> 9999,99
+4 Notebook Lenovo V15 G4, 15.6 Pol, Intel Core i5-13420H, FHD, 8GB DDR4, SSD 256GB, FreeDOS, Intel UHD Graphics, Preto, 83GL0012BR ===> 4235,28
+5 Notebook Lenovo IdeaPad 115IAU7, 15.6 Pol, Intel i3-1215U, UHD, 8GB DDR4, SSD 256GB, Windows 11 Home, Intel UHD Graphics, 82VY000SBR ===> 3529,40
+6 Notebook Gamer Acer Nitro V, 15.6 Pol, 144Hz, Intel Core i5-13420H, 8GB DDR5, SSD 512GB M.2, RTX 3050 6GB, Preto, ANV15-51-57WS ==> 6705,76
+7 Notebook Gigabyte U4 UD, Intel i5-1155G7, 14 Pol, FHD, 8GB DDR4, SSD 512GB M.2, UD-50BR823SO ===> 3882,34
+8 Notebook Acer Aspire 5, 15.6 Pol, Ryzen 5700U, FHD, 12GB, SSD 512GB, Prata, A515-45-R36L ===> 4.117,64
+
+1 Base Para Notebook Aigo Darkflash, DTL22, Preto, DLT22 ===> 117,64
+2 Mesa de Colo Para Notebook Fortrek Lapdesk, Preto, 84989 ===> 141,16
+3 Extensor de Tela Duplo Para Notebook Zinnia Vision Pro, 14 Pol, IPS, 60Hz, DP/Tipo-C, ZNO-VZONPRO-BL02 ===> 1882,34
+4 Mochila Omaska TSX2311, Preto, TSX2311-BK ===> 137,61
+
+--------------------
+gabinetes
+
+1 Gabinete Gamer Cooler Master Elite 490, ARGB, Mini-Tower, Lateral de Vidro, Com 3 Fans, Preto, E490-KHNN-S00 ==>611,75
+2 Gabinete Gamer Mancer CV100, Mid-Tower, Lateral De Vidro, Preto, MCR-CV100-BK ===>  
+3 Gabinete Atx Mini Tower com Fonte 200W sem Cabo Força MT-31V2BK Preto C3 Tech ===> 150
+4 Gabinete Gamer Fortrek Holt Mid Tower RGB Branco ===> 268,71
+
+
+--------------------
+
+servidor central
+
+
+
+
+1 Impressora Multifuncional HP Laser MFP 135w ===> 1529,10
+2 Impressora 3D Bambu Lab A1M A1 Mini, A1M-A1-MINI ===> 2447,05
+3 Impressora Brother Laser Monocromatica Wireless - HL-1212W ==> 1764,53
+4 Impressora HP Laser Multifuncional Deskjet Ink Advantage 2774, 7FR22A ===> 588,50
+
+-----------------------
+
+1 Windows 11 Pro OEM ===> 569,90
+2 MS Office 365 Business licença anual ===> 564,99
+Windows 11 Home  Licença Vitalícia ===> 299,90
+3 Windows Server STANDART 2025 ===> 3.000
+4 Software ERP SAP ERP ===> 15.000
+5 Software CAD licença anual ZW CAD PRO===> 2.000
+6 Antivírus Corporativo licença anual===> 100 fazer no canva
+7 Backup em Nuvem serviço anual ===> 2500/servidor fazer no canva
+
+-----------
+
+
+
+
+rede
+
+
+
+1 Servidor Torre PowerEdge DELL ===> 15.799,90
+2 intelbras Nobreak Senoidal Snb 600Va Bivolt ===> 859,90
+3 Organizador de Cabos 3/4 MD9, 1m, Branco,===> 5,49/metro (pichau)
+4 Testador de Cabos Secoon Sectool, Rj11/45, APTC-BS-468 ===> 30,28 (pichau)
+5 Alicate de Crimpar Seccon Sectool, RJ11/45, 3 em 1, K-H568R-CN-N ===>< 42,34 (pichau)
+6 Cabo de Rede Senye, Cat6, UTP, 5M,  ===> 35,28 
+7 Tubulações Aço Carbono Perfurada (200x50mm)===> 150/m
+8 Conectores  Keystone Jack Cat6 (Padrão T568A/B) ===> 45,90
+9 Rack Servidor Rack de Piso (12U) ===> 1250,00
+10 Switch Intelbras SF2421 PoE, 24 Portas, 10/100, Preto, SF2421-POE-SWITCH ===> 1870,58 (pichau)
+11 Switch TP-Link Easy Smart 24 Portas 10-10-1000Mbps, TL-SG1024DE ===> 1152,93 (pichau)
+12 Switch Cisco Gerenciáveis (24 Portas Gigabit) ===> 3599,90
+13 Mikrotik Routerboard Rb 760igs Hex S 880mhz 256mb bivolt===> 767,90
+14 Conector RJ45 CAT6 Fortrek, 100 Unidades ===> 107,87
+
+17 Configuração VPN (Serviço) Implementação de VPN Site-to-Site (Protocolo IPSec) canva
+18 Topologia de IP (Serviço)Criação de VLANs (Redes Virtuais Locais) canva
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
